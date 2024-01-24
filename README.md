@@ -1,2 +1,2 @@
 # IMC-PY
-Bla!
+Classic IMC (BMI - Body Mass Index) sample made using Python.
